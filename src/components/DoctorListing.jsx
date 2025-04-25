@@ -141,7 +141,7 @@ const DoctorListing = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <RadioGroupItem value="experience" id="experience" />
-                  <label htmlFor="experience">Experience- Most Experience first</label>
+                  <label htmlFor="experience">Experience- <br></br> Most Experience first</label>
                 </div>
               </RadioGroup>
             </div>
